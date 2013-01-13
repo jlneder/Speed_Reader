@@ -3,7 +3,6 @@ package com.example.speed.reader;
 import com.example.speed.reader.R;
 
 import android.app.Activity;
-import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.view.Gravity;
